@@ -29,19 +29,7 @@ dans un temps limité et avec un nombre restreint d'erreurs autorisées.
 
 .En cas de réussite, le score est sauvegardé localement dans un fichier .txt s’il figure parmi le Top 3
 📁 Structure du projet
-Modifier
-JeuDePaires/
-├── .idea/                 # Fichiers de configuration IntelliJ IDEA
-├── .mvn/wrapper/          # Wrapper Maven pour exécuter le projet sans installation globale
-├── lib/                   # Librairies externes éventuelles
-├── src/main/              # Code source principal de l’application
-│   └── java/...           # Classes Java (MVC, logique du jeu, etc.)
-├── .gitignore             # Fichiers/dossiers à ignorer par Git
-├── best_times.txt         # Sauvegarde des meilleurs scores (Top 3)
-├── mvnw                   # Script Unix pour lancer Maven Wrapper
-├── mvnw.cmd               # Script Windows pour lancer Maven Wrapper
-├── pom.xml                # Fichier de configuration Maven (dépendances, build, etc.)
-├── test.db                # Base de données SQLite locale
+![Screenshot 2025-06-12 213814](https://github.com/user-attachments/assets/938a113f-0e22-4e5b-81e1-2da48330ce30)
 
 
 📦 Installation & ▶️ Lancement du projet
