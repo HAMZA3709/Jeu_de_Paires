@@ -1,4 +1,4 @@
-![Screenshot 2025-06-12 170541](https://github.com/user-attachments/assets/a8154e45-0494-40b0-9e13-aeed5780f1a6)🎮 Jeu de Paires - Mini Projet Java S6
+🎮 Jeu de Paires - Mini Projet Java S6
 
 Projet réalisé dans le cadre du module Java (GI S6 - Année universitaire 2024/2025).
 Ce jeu de mémoire met au défi les utilisateurs de retrouver toutes les paires d’images identiques dans un temps limité, 
@@ -69,5 +69,13 @@ JavaFX (controls, FXML)
 SQLite JDBC driver
 
 Maven JavaFX plugin
+ 🖼️ Capture d’écran - Écran de jeu
+Voici l’interface principale du jeu, affichant une grille 4x4 de cartes retournées.
+![Screenshot 2025-06-12 170541](https://github.com/user-attachments/assets/7d59b010-73d5-437d-8027-6190d3a474f6)
+![Screenshot 2025-06-12 170602](https://github.com/user-attachments/assets/e886aaec-7a49-4b07-af73-8e31d33519b4)
+![Screenshot 2025-06-12 171105](https://github.com/user-attachments/assets/17446f0b-70da-4686-b2c1-072fe433a315)
+
+
+
 
 
