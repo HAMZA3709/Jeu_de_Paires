@@ -62,6 +62,23 @@ JavaFX (controls, FXML)
 SQLite JDBC driver
 
 Maven JavaFX plugin
+
+**👥 Auteurs**
+HAMZA ZAKI :
+https://github.com/HAMZA3709
+
+ Hiba Ait Atmane :
+https://github.com/Hibaatmn
+
+ Ikram Elhakour :
+https://github.com/ikramelhakour
+
+Sif Eddine Toumi :
+https://github.com/sifeddineftoumi
+
+**Présentation_jeu_de_paire**
+
+
 **🖼️ Capture d’écran - Écran de jeu**
 
 Voici l’interface principale du jeu, affichant une grille 4x4 de cartes retournées.
