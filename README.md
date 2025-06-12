@@ -15,11 +15,11 @@ avec un nombre d’essais restreint. L’objectif est de tester la concentration
 
 .Gestion du Top 3 scores via sauvegarde locale dans un fichier
 
-🎯 Objectif du jeu
+🎯OBJECTIF DU JEU
 Ce jeu a pour objectif de stimuler la mémoire du joueur en l'invitant à retrouver toutes les paires d'images dissimulées dans une grille,
 dans un temps limité et avec un nombre restreint d'erreurs autorisées.
 
-.La grille est composée de 16 cartes (format 4x4) retournées aléatoirement
+La grille est composée de 16 cartes (format 4x4) retournées aléatoirement
 
 .Chaque image est présente en double, formant des paires
 
@@ -28,7 +28,9 @@ dans un temps limité et avec un nombre restreint d'erreurs autorisées.
 .Le jeu est chronométré afin de mesurer la rapidité du joueur
 
 .En cas de réussite, le score est sauvegardé localement dans un fichier .txt s’il figure parmi le Top 3
-📁 Structure du projet
+
+#**📁 Structure du projet** 
+
 ![Screenshot 2025-06-12 213814](https://github.com/user-attachments/assets/938a113f-0e22-4e5b-81e1-2da48330ce30)
 
 
